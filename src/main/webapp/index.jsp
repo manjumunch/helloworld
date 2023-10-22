@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Welcome to Devops traning K</title>
+<title>Welcome to Devops manju  traning K</title>
 <style>
   body {
     background-color: orange;
