@@ -6,13 +6,13 @@
 <title>Welcome to Devops manju  traning K</title>
 <style>
   body {
-    background-color: lime;
+    background-color: aqua;
   }
 </style>
 </head>
 <body>
 <h1>Welcome to  manju  training</h1>
-<p>This is a sample Welcome to  Devops traning for 2023 Aug Evening Batch.</p>
+<p>This is a sample Welcome to  Devops traning .</p>
 </body>
 </html>
 
