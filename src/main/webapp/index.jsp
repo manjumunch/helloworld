@@ -6,7 +6,7 @@
 <title>Welcome to Devops manju  traning K</title>
 <style>
   body {
-    background-color: violet;
+    background-color: lime;
   }
 </style>
 </head>
