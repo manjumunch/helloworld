@@ -11,7 +11,7 @@
 </style>
 </head>
 <body>
-<h1>Welcome to  my home</h1>
+<h1>Welcome to  manju  training</h1>
 <p>This is a sample Welcome to  Devops traning for 2023 Aug Evening Batch.</p>
 </body>
 </html>
