@@ -6,12 +6,12 @@
 <title>Welcome to Devops manju  traning K</title>
 <style>
   body {
-    background-color: aqua;
+    background-color: rainbow;
   }
 </style>
 </head>
 <body>
-<h1>Welcome to  manju  training</h1>
+<h1>Welcome to  MK  training</h1>
 <p>This is a sample Welcome to  Devops traning .</p>
 </body>
 </html>
